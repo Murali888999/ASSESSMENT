@@ -1,0 +1,6 @@
+E:\TEST\mulitclient\multiclient\multiclient\bin\Debug\multiclient.exe.config
+E:\TEST\mulitclient\multiclient\multiclient\bin\Debug\multiclient.exe
+E:\TEST\mulitclient\multiclient\multiclient\bin\Debug\multiclient.pdb
+E:\TEST\mulitclient\multiclient\multiclient\obj\Debug\multiclient.csprojResolveAssemblyReference.cache
+E:\TEST\mulitclient\multiclient\multiclient\obj\Debug\multiclient.exe
+E:\TEST\mulitclient\multiclient\multiclient\obj\Debug\multiclient.pdb

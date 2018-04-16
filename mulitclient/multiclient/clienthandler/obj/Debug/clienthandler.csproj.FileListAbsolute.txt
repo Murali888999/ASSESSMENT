@@ -1,0 +1,6 @@
+E:\TEST\mulitclient\multiclient\clienthandler\bin\Debug\clienthandler.exe.config
+E:\TEST\mulitclient\multiclient\clienthandler\bin\Debug\clienthandler.exe
+E:\TEST\mulitclient\multiclient\clienthandler\bin\Debug\clienthandler.pdb
+E:\TEST\mulitclient\multiclient\clienthandler\obj\Debug\clienthandler.exe
+E:\TEST\mulitclient\multiclient\clienthandler\obj\Debug\clienthandler.pdb
+E:\TEST\mulitclient\multiclient\clienthandler\obj\Debug\clienthandler.csprojResolveAssemblyReference.cache

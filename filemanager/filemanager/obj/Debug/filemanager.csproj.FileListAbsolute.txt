@@ -1,0 +1,6 @@
+E:\TEST\mulitclient\filemanager\filemanager\bin\Debug\filemanager.exe.config
+E:\TEST\mulitclient\filemanager\filemanager\bin\Debug\filemanager.exe
+E:\TEST\mulitclient\filemanager\filemanager\bin\Debug\filemanager.pdb
+E:\TEST\mulitclient\filemanager\filemanager\obj\Debug\filemanager.csprojResolveAssemblyReference.cache
+E:\TEST\mulitclient\filemanager\filemanager\obj\Debug\filemanager.exe
+E:\TEST\mulitclient\filemanager\filemanager\obj\Debug\filemanager.pdb

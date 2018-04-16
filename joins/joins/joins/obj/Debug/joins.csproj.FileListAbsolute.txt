@@ -1,0 +1,9 @@
+E:\TEST\joins\joins\joins\bin\Debug\joins.exe.config
+E:\TEST\joins\joins\joins\bin\Debug\joins.exe
+E:\TEST\joins\joins\joins\bin\Debug\joins.pdb
+E:\TEST\joins\joins\joins\obj\Debug\joins.csprojResolveAssemblyReference.cache
+E:\TEST\joins\joins\joins\obj\Debug\joins.exe
+E:\TEST\joins\joins\joins\obj\Debug\joins.pdb
+E:\TEST\joins\joins\joins\bin\Debug\joins.XML
+E:\TEST\joins\joins\joins\bin\Debug\log4net.dll
+E:\TEST\joins\joins\joins\bin\Debug\log4net.xml
